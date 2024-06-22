@@ -1,5 +1,5 @@
 # Diabetes Prediction Using Machine Learning
- Data Science Capstone Project To Build a model to accurately predict whether the patients in the dataset have diabetes or not? Using Python and Tableau 10
+ Data Science Project => Building a model to accurately predict whether the patients in the dataset have diabetes or not? Using Python and Tableau 10
 
 # Problem Statement
 
